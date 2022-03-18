@@ -1,4 +1,4 @@
-/*Nama File	: 18_FaktorBil.c*/
+/*Nama File	: FaktorBil_Dhiya Mazaya.c*/
 /*Deskripsi	: Menentukan faktor bilangan dari masukan bilangan integer sembarang (N)*/
 /*Pembuat	: Dhiya Mazaya - 24060121140151*/
 /*Tgl pembuatan	: Rabu, 16-03-2022 07:43 WIB*/
