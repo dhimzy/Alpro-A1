@@ -1,4 +1,4 @@
-/*Nama File	: 19_CekPrima.c*/
+/*Nama File	: CekPrima_Dhiya Mazaya.c*/
 /*Deskripsi	: Menentukan apakah masukan bilangan integer sembarang (N) adalah bilangan prima atau bukan*/
 /*Pembuat	: Dhiya Mazaya - 24060121140151*/
 /*Tgl pembuatan	: Jumat, 18-03-2022 15:44 WIB*/
